@@ -1,0 +1,2 @@
+# hihocoder
+Solution for hihocoder
